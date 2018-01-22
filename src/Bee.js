@@ -4,6 +4,6 @@ class Bee extends Grub {
   super();
     this.age = 5;
     this.color = 'yellow';
-    this.job = 'keep on growing';
+    this.job = 'Keep on growing';
   }
 }
