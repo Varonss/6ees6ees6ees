@@ -8,7 +8,6 @@
     "Hack Reactor"
   ],
   "license": "COPYRIGHT",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
